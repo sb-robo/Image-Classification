@@ -7,7 +7,7 @@ Classify Image with Multi-Layer Perceptron
 - I have built the MLP model from scratch.
   
 ### Prerequisites
-- Python 3.6 or higher version must be installed in the System where you are running.
+- <b>Python 3.6</b> or higher version must be installed in the System where you are running.
 - <b>Keras</b>, <b>matplotlib</b>, <b>pathlib</b> and <b>numpy</b> need to install before running this code.
 
 #### Useful Links:
